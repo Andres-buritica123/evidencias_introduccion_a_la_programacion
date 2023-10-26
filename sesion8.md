@@ -58,6 +58,10 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
             border: 10px solid black;
         }
 
+        body {
+            background-color: gray;
+        }
+
         .destacado {
             color: rgb(21, 255, 0);
         }
@@ -80,10 +84,6 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
         #sombras {
             box-shadow: 10px 10px 10px blue;
             border-radius: 30px;
-        }
-
-        body {
-            background-color: gray;
         }
 
         div p {
