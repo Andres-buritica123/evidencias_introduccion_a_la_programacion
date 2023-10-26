@@ -33,7 +33,7 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
 
 ## Solución activida 8
 
-1. En el documento html
++ En el documento html
 
 ```html
 
@@ -74,7 +74,7 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
 
 ```
 
-2. En el documento css
++ En el documento css
 
 ```css
 
