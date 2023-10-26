@@ -33,6 +33,8 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
 
 ## Solución activida 8
 
+1. En el documento html
+
 ```html
 
 <!DOCTYPE html>
@@ -42,58 +44,7 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <Style>
-        h1 {
-            background-color: black;
-            color: red;
-            width: 200px;
-            text-align: center;
-        }
-
-        p {
-            color: blue;
-        }
-
-        img {
-            border: 10px solid black;
-        }
-
-        body {
-            background-color: gray;
-        }
-
-        .destacado {
-            color: rgb(21, 255, 0);
-        }
-
-        .grande {
-            font-size: 30px;
-        }
-
-        .footer {
-            background-color: black;
-            color: red;
-            width: 200px;
-            text-align: center;
-        }
-
-        #principal {
-            color: yellow;
-        }
-
-        #sombras {
-            box-shadow: 10px 10px 10px blue;
-            border-radius: 30px;
-        }
-
-        div p {
-            background-color: black;
-        }
-
-        section p {
-            text-align: center;
-        }
-    </Style>
+    <link rel="stylesheet" href="style.css">    
 </head>
 
 <body>
@@ -120,5 +71,62 @@ El objetivo de esta actividad es crear la estructura HTML básica de una página
 </body>
 
 </html>
+
+```
+
+2. En el documento css
+
+```css
+
+h1 {
+    background-color: black;
+    color: red;
+    width: 200px;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+img {
+    border: 10px solid black;
+}
+
+body {
+    background-color: gray;
+}
+
+.destacado {
+    color: rgb(21, 255, 0);
+}
+
+.grande {
+    font-size: 30px;
+}
+
+.footer {
+    background-color: black;
+    color: red;
+    width: 200px;
+    text-align: center;
+}
+
+#principal {
+    color: yellow;
+}
+
+#sombras {
+    box-shadow: 10px 10px 10px blue;
+    border-radius: 30px;
+}
+
+div p {
+    background-color: black;
+}
+
+section p {
+    text-align: center;
+}
 
 ```
