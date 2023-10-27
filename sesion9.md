@@ -117,3 +117,13 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 5. ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
 
 ## Solución actividad 9
+
+1. La propiedad CSS margin establece el margen para los cuatro lados. Es una abreviación para evitar tener que establecer cada lado por separado con las otras propiedades de margen: margin-top, margin-right, margin-bottom y margin-left.
+
+2. La propiedad padding es la que crea el espacio o área alrededor del contenido de un elemento. Consiste en el relleno superior, derecho, inferior e izquierdo. En CSS se escriben como padding-top, padding-right, padding-bottom y padding-left.
+
+3. La propiedad border permite definir en una única regla todos los bordes de los elementos seleccionados. Se puede utilizar border para definir el o los valores siguientes: border-width, border-style, border-color.
+
+4. La propiedad CSS border-top-left-radius establece el redondeo de la esquina superior izquierda del elemento. El redondeo puede ser un círculo o una elipse, o si uno de los valores es 0, no se redondeará la esquina, dejándola cuadrada.
+
+5. Píxeles (px), points (pt), porcentaje (%), ems (em), rem (rem), view height (vh), centimetros (cm), milimetros (mm), pulgadas (in) y picas (pc).
