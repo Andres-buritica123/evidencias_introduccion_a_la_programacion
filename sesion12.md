@@ -6,9 +6,10 @@
 ## Evaluación Momento 2
 
 1. Enlace evaluación de conocimiento:
+
 Evaluación
 
-2. Crea un proyecto web utilizando la plantilla proporcionada. Luego, resuelve los cuatro ejercicios asignados. Una vez completados, sube el proyecto a un repositorio en GitHub llamado “EvaluaciónM2” y publica el proyecto como pagina web.
+2. Crea un proyecto web utilizando la plantilla proporcionada. Luego, resuelve los tres ejercicios asignados. Una vez completados, sube el proyecto a un repositorio en GitHub llamado “EvaluaciónM2” y publica el proyecto como pagina web.
 
 ```html
 
